@@ -6,7 +6,7 @@
 > * **Desenvolvedor:** Gabriel H. S. Oliveira
 > * **Data da Entrega:** 10 de Fevereiro de 2026
 > * **Versão:** 1.0.0 (Estrutura Inicial)
-> * **Jira:** https://ghso.atlassian.net/jira/software/projects/PS/list?jql=project+%3D+PS+ORDER+BY+created+DESC&atlOrigin=eyJpIjoiN2JmNWJjNTljOTJmNDM1ZmI0OWVjZDc1ZjMxYmYwNGQiLCJwIjoiaiJ9
+> * **Jira:** https://ghso.atlassian.net/jira/software/projects/PS/summary
 
 ---
 

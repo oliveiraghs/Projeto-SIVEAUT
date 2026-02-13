@@ -44,7 +44,7 @@ class LoginView:
 
         # --- 1. LOGIN ---
         with col_sidebar:
-            st.markdown("<br><h2 style='text-align:center; color:#333;'>🔐 Acesso</h2>", unsafe_allow_html=True)
+            st.markdown("<br><h2 style='text-align:center; color:#333;'> Acesso</h2>", unsafe_allow_html=True)
             st.caption("Área restrita para administradores, coordenadores e pesquisadores.")
             with st.form("login_form"):
                 email = st.text_input("Usuário", placeholder="ex@siveauto.com")
@@ -58,7 +58,7 @@ class LoginView:
 
         # --- 2. BUSCA PÚBLICA ---
         with col_content:
-            st.markdown("<br><div class='main-title'>🚗 SIVEAUTO</div>", unsafe_allow_html=True)
+            st.markdown("<br><div class='main-title'> SIVEAUTO</div>", unsafe_allow_html=True)
             st.markdown("<p style='text-align:center; color:#333; font-size:1.2rem;'>Sistema Integrado de Auditoria e Cotação</p>", unsafe_allow_html=True)
 
             _, central_col, _ = st.columns([0.5, 4, 0.5])
